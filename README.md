@@ -1,28 +1,26 @@
 # hash_MD5
 Validacion de hash MD5
-Programa que permite de forma automática detectar un archivo MD5 leerlo y verificar el contenido de la carpeta creando el hashes y comparándolos en base al archivo MD5. Crea un nuevo archivo a modo de bandera si están correctos los archivos o no.
+Programa que permite de forma automÃ¡tica detectar un archivo MD5 leerlo y verificar el contenido de la carpeta creando el hashes y comparÃ¡ndolos en base al archivo MD5. Crea un nuevo archivo a modo de bandera si estÃ¡n correctos los archivos o no.
 
-Pre-requisitos ??
+Pre-requisitos ğŸ“‹
 Se debe pasar la ruta de la carpeta donde se encuentran los archivos.
 
-Instalación ??
-No requiere instalación.
+InstalaciÃ³n ğŸ”§
+No requiere instalaciÃ³n.
 
-Ejecutando las pruebas ?
-Llamar el archivo con el parámetro de ruta de archivos.
+Ejecutando las pruebas âš™
+Llamar el archivo con el parÃ¡metro de ruta de archivos.
 
-Construido con ??
+Construido con ğŸ› 
 Menciona las herramientas que utilizaste para crear tu proyecto
-* Python
+â€¢	Python
 
-Versionado ??
+Versionado ğŸ“Œ
 Version 1.0
 
-Autores ?
+Autores âœ’
 Lic. Alex  Alejo 
 
-Agradecimientos ??
-* Gracias por leerme.
-* Saludos
-
-
+Agradecimientos ğŸ
+â€¢	Gracias por leerme.
+â€¢	Saludos
